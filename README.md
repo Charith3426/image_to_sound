@@ -50,6 +50,4 @@ Give it a star
 Did you find this information useful, then give it a star 
 
 
-Credits
------------
-All the credits to [kalebu](github.com/kalebu)
+
